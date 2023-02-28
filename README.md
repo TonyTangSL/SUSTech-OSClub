@@ -1,2 +1,9 @@
 # SUSTech-OSClub
-南方科技大学开源俱乐部（SUSTech Open Source Club）
+SUSTech Open Source Club
+
+## [English](./README.md) | [Chinese](./README_ZH.md)
+
+## About us
+brief introduction
+
+
